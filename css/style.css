@@ -57,7 +57,7 @@ h3{font-size: 20px;
 
 #hero {
 	
-  background: url("AXIT/img/heroBackground.png"), black;
+  background: url("/img/heroBackground.png"), black;
   display: flex;
   justify-content: center; }
   #hero .hero_container {
