@@ -56,7 +56,7 @@ h3{font-size: 20px;
         padding-right: 0px; } }
 
 #hero {
-  background: url("/heroBackground.png"), black;
+  background: url("/gh-pages/img/heroBackground.png"), black;
   display: flex;
   justify-content: center; }
   #hero .hero_container {
