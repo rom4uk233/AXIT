@@ -446,7 +446,7 @@ p.arrow_box:after {
 .athrhalf{width:70%; float:left; text-align:left;}
 .athrhalf h3{padding-top:15px; padding-bottom:5px;}
 #design{
-  background: url("img/news.png"), black;
+  background: url("/img/news.png"), black;
   min-height:	320px;
 	background-size:cover;
 	padding:70px 0;
