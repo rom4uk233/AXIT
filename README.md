@@ -1,2 +1,2 @@
-# AXIT
-BeetRoot final project
+# AXIT project
+
